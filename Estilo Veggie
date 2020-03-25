@@ -7,7 +7,7 @@
   </head>
   <body class="p-3">
   <!-- v -->
-<p>Enlace relativo <a href="EstiloVeggie.html">Estilo Veggie</a></p>
+<p>Enlace relativo <a href="EstiloVeggie.html">EstiloVeggie</a></p>
 
 <p>Enlace abosuluto<a href="https://github.com/florensiatoledo/florensiatoledo.github.io/blob/gh-pages/EstiloVeggie.html">Estilo Veggie</a></p>
 
